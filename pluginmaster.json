@@ -8,7 +8,7 @@
     "RepoUrl": "https://github.com/Dr4gnSt4lk/OhHey",
     "ApplicableVersion": "any",
     "AssemblyVersion": "0.0.4",
-    "DalamudApiLevel": 12,
+    "DalamudApiLevel": 14,
     "DownloadLinkInstall": "https://github.com/Dr4gnSt4lk/OhHey/releases/download/0.0.4/latest.zip",
     "IsHide": false,
     "Tags": [
@@ -20,3 +20,4 @@
   }
 
 ]
+
