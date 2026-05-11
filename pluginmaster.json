@@ -2,14 +2,14 @@
   {
     "InternalName": "OhHeyFixed",
     "Name": "Oh Hey!",
-    "Description": "Ever wanted to get notified when someone targets you or emotes at you? Now you can! (Updated for 7.4)",
+    "Description": "Ever wanted to get notified when someone targets you or emotes at you? Now you can!",
     "Punchline": "Get notified when someone targets or emotes at you.",
     "Author": "Mei, BnuuyAster",
     "RepoUrl": "https://github.com/Dr4gnSt4lk/OhHey",
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.0.5",
-    "DalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://github.com/Dr4gnSt4lk/OhHey/releases/download/0.0.5/latest.zip",
+    "AssemblyVersion": "0.0.6",
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://github.com/Dr4gnSt4lk/OhHey/releases/download/0.0.6/latest.zip",
     "IsHide": false,
     "Tags": [
       "notification",
